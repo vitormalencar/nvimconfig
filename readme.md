@@ -1,6 +1,6 @@
 vimconfig
-
-> [description]
+Meu setup para o neovim 
+> [description] 
 
 
 ## Why it's awesome
